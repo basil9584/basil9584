@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Bassil Elshenawy</h1>
+<h1 align="center">I'm Bassil Elshenawy</h1>
 <h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basil9584&label=Profile%20views&color=0e75b6&style=flat" alt="basil9584" /> </p>
