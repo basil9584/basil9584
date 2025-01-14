@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basil9584" alt="basil9584" /></a> </p>
 
-- 🔭 I’m currently working on **AI-Powered chatbots**
+- 🔭 I’m currently working on **AI-Powered software products**
 
 - 🌱 I’m currently learning **Machine Learning, Natural Language processing and MLOps**
 
